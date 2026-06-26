@@ -26,9 +26,9 @@ It is designed for horror games, retro-style projects, archive interfaces, analo
 
 Add preview images or GIFs here.
 
-```md
+
 ![Preview](./VHS-SHADER.gif)
-```
+
 
 ---
 
